@@ -59,7 +59,9 @@ export const metadata: Metadata = {
     images: ["/Gen Alfha Logos.png"]
   },
   icons: {
-    icon: "/Gen Alfha Logos.png"
+    icon: "/icon.png",
+    shortcut: "/icon.png",
+    apple: "/icon.png",
   }
 };
 
